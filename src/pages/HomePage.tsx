@@ -55,7 +55,7 @@ const featuredProjects: FeaturedProject[] = [
   },
   {
     category: "API Development",
-    title: "Task Management API",
+    title: "TaskGuard API",
     description:
       "RESTful API built with Java Spring Boot for managing tasks and projects with user authentication and role-based access control.",
     features: [
@@ -65,7 +65,7 @@ const featuredProjects: FeaturedProject[] = [
       "API documentation",
     ],
     tech: ["Java", "Spring Boot", "Spring Security", "JPA", "MySQL"],
-    code: "#",
+    code: "https://github.com/naldmach/taskguard-api",
     demo: "#",
   },
   {
