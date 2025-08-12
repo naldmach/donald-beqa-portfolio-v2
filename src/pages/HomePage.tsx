@@ -49,8 +49,8 @@ const featuredProjects: FeaturedProject[] = [
       "User accounts",
       "Order tracking",
     ],
-    tech: ["C#", "ASP.NET Core", "MVC", "Entity Framework", "Bootstrap"],
-    code: "#",
+    tech: ["C#", "ASP.NET Core", "MVC", "Entity Framework", "Bootstrap", "HTML", "Javascript"],
+    code: "https://github.com/naldmach/shopbuddy-ecommerce",
     demo: "#",
   },
   {
@@ -257,6 +257,9 @@ export default function HomePage() {
                     "Git",
                     "Entity Framework",
                     "MVC Architecture",
+                    "HTML",
+                    "Javascript",
+                    "Tailwind CSS/Bootstrap",
                   ].map((s) => (
                     <span
                       key={s}
