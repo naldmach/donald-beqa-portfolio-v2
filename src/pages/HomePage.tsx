@@ -35,7 +35,7 @@ const featuredProjects: FeaturedProject[] = [
       "Financial reports",
     ],
     tech: ["C#", ".NET Core", "Entity Framework", "SQL Server", "LINQ"],
-    code: "#",
+    code: "https://github.com/naldmach/PersonalFinanceTracker",
     demo: "#",
   },
   {
