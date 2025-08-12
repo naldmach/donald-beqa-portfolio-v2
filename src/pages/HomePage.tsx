@@ -79,8 +79,8 @@ const featuredProjects: FeaturedProject[] = [
       "Reports",
       "Multi-user support",
     ],
-    tech: ["PHP", "Laravel", "MySQL", "Vue.js", "Blade Templates"],
-    code: "#",
+    tech: ["PHP", "Laravel", "MySQL/SQLite", "Vue.js", "Bootstrap 5", "Blade Templates"],
+    code: "https://github.com/naldmach/shelfwise-inventoryms",
     demo: "#",
   },
   {
