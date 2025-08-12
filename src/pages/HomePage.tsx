@@ -49,7 +49,7 @@ const featuredProjects: FeaturedProject[] = [
       "User accounts",
       "Order tracking",
     ],
-    tech: ["C#", "ASP.NET Core", "MVC", "Entity Framework", "Bootstrap", "HTML", "Javascript"],
+    tech: ["C#", "ASP.NET Core", "MVC", "Entity Framework", "Bootstrap", "HTML", "JavaScript"],
     code: "https://github.com/naldmach/shopbuddy-ecommerce",
     demo: "#",
   },
@@ -176,7 +176,11 @@ export default function HomePage() {
               >
                 <Button className="min-w-[160px]">View Projects</Button>
               </a>
-              <a href="#" target="_blank" rel="noreferrer">
+              <a 
+                href="https://drive.google.com/file/d/1qJ9MYOw-s8r4T62RrEUdOx0H8TCHZz6G/view?usp=sharing" 
+                target="_blank" 
+                rel="noreferrer"
+              >
                 <Button
                   variant="outline"
                   className="min-w-[160px] bg-white/10 text-white border-white/20 hover:bg-white/20"
@@ -199,7 +203,7 @@ export default function HomePage() {
             </div>
             <div className="mt-6 flex items-center gap-2 text-sm text-white/90">
               <a
-                href="https://github.com/"
+                href="https://github.com/naldmach"
                 target="_blank"
                 rel="noreferrer"
                 className="inline-flex items-center gap-2 px-3 py-2 rounded hover:bg-white/10"
@@ -207,7 +211,7 @@ export default function HomePage() {
                 <Github className="w-4 h-4" /> GitHub
               </a>
               <a
-                href="https://www.linkedin.com/"
+                href="https://www.linkedin.com/in/donaldmachon/"
                 target="_blank"
                 rel="noreferrer"
                 className="inline-flex items-center gap-2 px-3 py-2 rounded hover:bg-white/10"
@@ -215,7 +219,7 @@ export default function HomePage() {
                 <Linkedin className="w-4 h-4" /> LinkedIn
               </a>
               <a
-                href="mailto:donald.machon@email.com"
+                href="mailto:donald.machon@gmail.com"
                 className="inline-flex items-center gap-2 px-3 py-2 rounded hover:bg-white/10"
               >
                 <Mail className="w-4 h-4" /> Email
@@ -258,7 +262,7 @@ export default function HomePage() {
                     "Entity Framework",
                     "MVC Architecture",
                     "HTML",
-                    "Javascript",
+                    "JavaScript",
                     "Tailwind CSS/Bootstrap",
                   ].map((s) => (
                     <span
@@ -393,17 +397,17 @@ export default function HomePage() {
           <div className="border-l-2 border-gray-200 dark:border-gray-700 ml-4">
             {[
               {
-                year: "2021",
+                year: "2024",
                 title: "Began my Coding Quest",
                 desc: "Learned programming fundamentals and started building small utilities and scripts.",
               },
               {
-                year: "2023",
+                year: "2025",
                 title: "QA Internship",
                 desc: "Wrote and executed test cases, reported bugs, and learned automation basics.",
               },
               {
-                year: "2024",
+                year: "2025",
                 title: "First Backend Project",
                 desc: "Built REST APIs with Node.js/Express and integrated a NoSQL database.",
               },
@@ -452,7 +456,7 @@ export default function HomePage() {
                 </ul>
                 <div className="flex items-center gap-3">
                   <a
-                    href="https://www.linkedin.com/"
+                    href="https://www.linkedin.com/donaldmachon/"
                     target="_blank"
                     rel="noreferrer"
                     className="rounded-md border border-white/15 bg-white/5 px-3 py-2 hover:bg-white/10 text-sm inline-flex items-center gap-2"
@@ -460,7 +464,7 @@ export default function HomePage() {
                     <Linkedin className="w-4 h-4" /> LinkedIn
                   </a>
                   <a
-                    href="https://github.com/"
+                    href="https://github.com/naldmach"
                     target="_blank"
                     rel="noreferrer"
                     className="rounded-md border border-white/15 bg-white/5 px-3 py-2 hover:bg-white/10 text-sm inline-flex items-center gap-2"
