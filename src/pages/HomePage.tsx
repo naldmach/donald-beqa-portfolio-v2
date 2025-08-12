@@ -174,7 +174,7 @@ export default function HomePage() {
                 target="_blank"
                 rel="noreferrer"
               >
-                <Button className="min-w-[160px]">View Projects</Button>
+                <Button className="min-w-[160px]">View Github Projects</Button>
               </a>
               <a 
                 href="https://drive.google.com/file/d/1qJ9MYOw-s8r4T62RrEUdOx0H8TCHZz6G/view?usp=sharing" 
