@@ -102,7 +102,7 @@ const featuredProjects: FeaturedProject[] = [
     category: "Test Automation",
     title: "Web Application Test Framework",
     description:
-      "Modern testing framework built with Playwright for end-to-end testing of web applications with advanced reporting capabilities.",
+      "Modern testing framework built with Playwright for end-to-end testing of web applications with reporting capabilities.",
     features: [
       "Visual testing",
       "API testing",
@@ -115,6 +115,7 @@ const featuredProjects: FeaturedProject[] = [
       "Node.js",
       "HTML Reports",
       "GitHub Actions",
+      "Postman",
     ],
     code: "#",
     demo: "#",
