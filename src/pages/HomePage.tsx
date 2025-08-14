@@ -70,7 +70,7 @@ const featuredProjects: FeaturedProject[] = [
   },
   {
     category: "Web Application",
-    title: "Inventory Management System",
+    title: "ShelfWise Inventory Management System",
     description:
       "PHP Laravel application for managing warehouse inventory with real-time stock tracking and automated alerts.",
     features: [
